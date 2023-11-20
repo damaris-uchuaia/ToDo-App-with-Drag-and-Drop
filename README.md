@@ -1,5 +1,5 @@
 # ToDo-App-with-Drag-and-Drop (React.JS) :pen: :zap:
- **Excelência na Gestão de Tarefas: Um App ToDo Repleto de Recursos**
+ **Excelência na Gestão de Tarefas: Um App ToDo Repleto de Recursos (feito com React.JS)**
  
 ![Print do App](https://github.com/damaris-uchuaia/ToDo-App-with-Drag-and-Drop/blob/main/public/Todo.png?raw=true)
 
