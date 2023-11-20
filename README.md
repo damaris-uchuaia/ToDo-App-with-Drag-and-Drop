@@ -1,6 +1,6 @@
-# ToDo-App-with-Drag-and-Drop :pen: :zap:
+# ToDo-App-with-Drag-and-Drop (React.JS) :pen: :zap:
  **Excelência na Gestão de Tarefas: Um App ToDo Repleto de Recursos**
-
+![Print do App](https://github.com/damaris-uchuaia/ToDo-App-with-Drag-and-Drop/blob/main/public/Todo.png?raw=true)
 **Funcionalidades Principais:**
 
 1-Adição de Tarefas:
