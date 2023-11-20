@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# ToDo-App-with-Drag-and-Drop :pen: :zap:
+ **Excelência na Gestão de Tarefas: Um App ToDo Repleto de Recursos**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Funcionalidades Principais:**
 
-## Available Scripts
+1-Adição de Tarefas:
+Utilize o campo de entrada na parte superior para adicionar novas tarefas.
 
-In the project directory, you can run:
+2-Exclusão de Tarefas:
+Cada tarefa na lista possui um botão de exclusão. Clique nele para remover uma tarefa.
 
-### `npm start`
+3-Edição de Tarefas:
+Clique no botão "Edit" para modificar o texto de uma tarefa existente.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4-Priorização:
+Utilize o recurso de drag and drop para reordenar suas tarefas e definir prioridades.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+5-Marcação de Tarefas Concluídas:
+Cada tarefa tem uma opção de checkbox. Marque a caixa para indicar que a tarefa foi concluída.
 
-### `npm test`
+6-Filtragem de Tarefas:
+Escolha entre as abas "All", "Pending" e "Completed" para visualizar diferentes grupos de tarefas.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+7-Limpar Todas as Tarefas:
+Utilize o botão "Clear All" para remover todas as tarefas da lista.
 
-### `npm run build`
+# Como Instalar:
+Certifique-se de ter o Node.js instalado em sua máquina.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Navegue até o diretório do projeto:
+**cd my-app**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Instale as dependências:
+**npm install**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Execute o aplicativo:
+**npm start**
 
-### `npm run eject`
+# Dependências:
+Este projeto utiliza as seguintes dependências, certifique-se de que todas estão instaladas corretamente:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- @emotion/react@^11.11.1
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- @emotion/styled@^11.11.0
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- @mui/icons-material@^5.14.18
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- @mui/material@^5.14.18
 
-## Learn More
+- @testing-library/jest-dom@^5.17.0
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- @testing-library/react@^13.4.0
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- @testing-library/user-event@^13.5.0
 
-### Code Splitting
+- react@^18.2.0
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- react-beautiful-dnd@^13.1.1
 
-### Analyzing the Bundle Size
+- react-dom@^18.2.0
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- react-scripts@5.0.1
 
-### Making a Progressive Web App
+- styled-components@^6.1.1
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- web-vitals@^2.1.4
 
-### Advanced Configuration
+Se você encontrar algum problema com as dependências, verifique se todas estão instaladas usando o comando:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+**npm ls --depth=0**
 
-### Deployment
+Se alguma dependência estiver faltando, instale-a manualmente com:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+**npm install nome-da-dependencia**
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Agora, seu aplicativo estará pronto para uso! :smiley:
